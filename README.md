@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @raulrosado
 - 👀 I’m interested in ... Learn more
-- 🌱 I’m currently learning ... React Js
-- 💞️ I’m looking to collaborate on ... Serpro
+- 🌱 I’m currently learning ... Next Js
 - 📫 How to reach me ...raulrosado91@gmail.com
